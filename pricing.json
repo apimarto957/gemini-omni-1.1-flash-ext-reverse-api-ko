@@ -1,0 +1,20 @@
+{
+  "repo": "gemini-omni-1.1-flash-ext-reverse-api-ko",
+  "model": "Omni-Flash-Ext",
+  "display": "Gemini Omni 1.1 Flash Ext",
+  "route": "reverse",
+  "variant": "gemini-omni-1.1-flash-ext",
+  "snapshot": "2026-09-28",
+  "unit": "usd_per_call",
+  "tiers": {},
+  "variants": {
+    "default": [
+      "720p",
+      "1080p",
+      "4k"
+    ]
+  },
+  "official_counterpart": "gemini-omni-1.1-flash",
+  "effective_note": "official route billed at ×0.8 group ratio; reverse route is flat per unit",
+  "source": "https://go.apimart.ai/k-72527d"
+}
