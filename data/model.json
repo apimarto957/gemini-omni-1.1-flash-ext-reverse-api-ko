@@ -1,0 +1,10 @@
+{
+  "id": "gemini-omni-1.1-flash-ext",
+  "source": "https://apimart.ai/en/pricing",
+  "extracted_at": "2026-10-13T06:43:13Z",
+  "prices": {},
+  "rates": {},
+  "unit": null,
+  "hook": "from $0.02 per image on the Ext route",
+  "model_page": "https://apimart.ai/model/omni-flash-ext"
+}
